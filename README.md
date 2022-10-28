@@ -62,13 +62,12 @@ const cyrus = {
     "javascript", "typescript", "python", "c", "c++", 
     "terraform", "golang",
     // learning
-    // "php", "R",
+    // "LaTeX",
 
     // forgot...
-    // "java", "asm", "c#", "ruby", "pascal"
+    // "java", "asm", "c#", "ruby", "pascal", "swift", "php", "R",
 
     // want to learn
-    // "swift",
     // "rust",
   ],
   askMeAbout: ["web dev", "tech", "infosec", "ci/cd"],
